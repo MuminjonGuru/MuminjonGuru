@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MuminjonGuru&show_icons=true&theme=synthwave)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MuminjonGuru&show_icons=true&theme=cobalt)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
