@@ -14,9 +14,7 @@
 <details>
   <summary><b>📈Language & Framework stats</b></summary>
   <br/>
-    <img
-      src="https://cr-skills-chart-widget.azurewebsites.net/api/api?muminjonguru=nolimits4web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
-    />
+      <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=muminjonguru&padding=30&skills=delphi,angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
 </details>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MuminjonGuru.id)
