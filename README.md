@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 I'm currently working on Web3 Project<br>🤝 I'm looking to collaborate on tech workshops/events/content creation<br>📚 I'm currently learning anything that comes up to me on the way<br>😶‍🌫️
+🤖 I'm currently working on Web3 Project<br>🤝 I'm looking to collaborate on tech workshops/events/content creation<br>📚 I'm currently learning anything that comes up to me on the way
 
 
 ## 🌐 Socials:
